@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This code shows IP + port =socket
+
+netstat -l -p
